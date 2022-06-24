@@ -6,7 +6,6 @@ body {
   letter-spacing: 2px;
   padding-top: 20px;
   overflow: hidden;
-  position: fixed;
 }
 
 img {
@@ -52,6 +51,7 @@ img {
 
 /* Offline page */
 .offline {
+  overflow: hidden;
   position: relative;
   height: 1cm;
 }
