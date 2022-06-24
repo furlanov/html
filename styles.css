@@ -6,6 +6,7 @@ body {
   letter-spacing: 2px;
   padding-top: 20px;
   overflow: hidden;
+  height: 100%;
 }
 
 img {
